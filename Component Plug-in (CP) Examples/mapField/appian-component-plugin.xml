@@ -10,8 +10,9 @@
   <component rule-name="mapField" version="1.0.0">
     <sdk-version>2.0.0</sdk-version>
     <icon-file>google-maps.svg</icon-file>
+    <icon-name>map-o</icon-name>
     <parameter>
-      <name>key</name>
+      <name>com.example.map</name>
       <category>input-only</category>
       <type>Text</type>
     </parameter>
