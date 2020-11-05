@@ -11,7 +11,7 @@
     <sdk-version>2.0.0</sdk-version>
     <icon-file>google-maps.svg</icon-file>
     <parameter>
-      <name>key</name>
+      <name>com.example.map</name>
       <category>input-only</category>
       <type>Text</type>
     </parameter>
